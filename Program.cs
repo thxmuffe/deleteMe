@@ -1,5 +1,5 @@
-
-
-// Visual Studio Coden keskeisessä asemassa on:
-// Extensionit!!
-// Command palette Command + Shift + P
+class Program {
+    public static void Main(string[] args) {
+        System.Console.WriteLine("Test!");
+    } 
+}
